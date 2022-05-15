@@ -1,6 +1,10 @@
 # youtube-timecodes
 
+<<<<<<< HEAD
 Class 01 - Timecodes Test 03! 
+=======
+Class 01 - Timecodes - Success
+>>>>>>> ea3aa51 (test)
 0:00 - Intro  
 9:45 - We're here to learn for free! Learn about the 100Devs course and Leon!  
 21:24 - What do Software Engineers do?  
